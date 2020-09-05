@@ -1,4 +1,3 @@
-
 import time
 r=1
 print("欢迎使用体重指数(BMI)测试！\n开发者：Jacob_Hu\n本程序Github库地址:https://github.com/JacobHu0723/BMI_Test\n如有Bug请在Github中进行反馈！")
